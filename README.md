@@ -3,6 +3,6 @@
 Para cópiar o código em HTML:
 ...
 <html>
-  <hl>Meu primeio arquivo html</hl>
+  <h1>Meu primeio arquivo html</h1>
 </html>
 ...
